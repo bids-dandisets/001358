@@ -1,0 +1,20 @@
+{
+    "Name": "Neural correlates of crowding in macaque area V4",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "We studied the responses of 147 V4 neurons in two awake, fixating macaque monkeys (66 in Monkey 1, 81 in Monkey 2) to examine how their responses and selectivity to an isolated shape are modified by the presence of surrounding clutter stimuli.\n\nMore detailed information associated with this dataset is described in https://doi.org/10.1523/JNEUROSCI.2260-23.2024 ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Kim, Taekjun",
+        "Pasupathy, Anitha"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

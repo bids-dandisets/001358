@@ -1,0 +1,46 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "ses_ID": {
+        "Description": "session ID"
+    },
+    "ses_Name": {
+        "Description": "session Name"
+    },
+    "cond_Name": {
+        "Description": "crowding condition name"
+    },
+    "cond_ID": {
+        "Description": "crowding condition ID (0-21)"
+    },
+    "target_rot": {
+        "Description": "target_rotation (deg)"
+    },
+    "rep_num": {
+        "Description": "rep_num"
+    },
+    "pdOn": {
+        "Description": "stimulus onset time"
+    },
+    "pdOff": {
+        "Description": "stimulus offset time"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    }
+}
